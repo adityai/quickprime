@@ -1,6 +1,6 @@
 {
     "name": "quickprime",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "author": "Aditya Inapurapu",
     "description": "A quicker prime number identifier.",
     "keywords": [
