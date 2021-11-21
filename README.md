@@ -7,6 +7,7 @@ Install:
 
 Usage:
 ```
-var isPrime = require('quickprime');
-Console.log(isPrime(3));
+var quickprime = require("quickprime")
+console.log(quickprime.isPrime(3));
+
 ```
